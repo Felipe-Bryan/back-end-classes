@@ -53,19 +53,18 @@ Atividade Prática - Modelagem de objetos em Typescript
    mínimo esses atributos:<br>
    i. tipoCombustivel.<br>
    ii. valorLitro<br>
-
-iii. quantidadeCombustivel<br><br>
-b. Possua no mínimo esses métodos:<br>
-i. abastecerPorValor() – método onde é informado o
-valor a ser abastecido e mostra a quantidade de litros
-que foi colocada no veículo<br>
-ii. abastecerPorLitro() – método onde é informado a
-quantidade em litros de combustível e mostra o valor a
-ser pago pelo cliente.<br>
-iii. alterarValor() – altera o valor do litro do combustível.<br>
-iv. alterarCombustivel() – altera o tipo do combustível.<br>
-v. alterarQuantidadeCombustivel() – altera a
-quantidade de combustível restante na bomba.<br>
+   iii. quantidadeCombustivel<br><br>
+   b. Possua no mínimo esses métodos:<br>
+   i. abastecerPorValor() – método onde é informado o
+   valor a ser abastecido e mostra a quantidade de litros
+   que foi colocada no veículo<br>
+   ii. abastecerPorLitro() – método onde é informado a
+   quantidade em litros de combustível e mostra o valor a
+   ser pago pelo cliente.<br>
+   iii. alterarValor() – altera o valor do litro do combustível.<br>
+   iv. alterarCombustivel() – altera o tipo do combustível.<br>
+   v. alterarQuantidadeCombustivel() – altera a
+   quantidade de combustível restante na bomba.<br>
 
 OBS: Sempre que acontecer um abastecimento é necessário
 atualizar a quantidade de combustível total na bomba. Não deve ser
@@ -83,7 +82,6 @@ possível abastecer se não tiver gasolina suficiente na bomba.<br>
    c. Forneça um método andar() que simula o ato de dirigir o
    veículo por uma certa distância, reduzindo o nível de
    combustível no tanque de gasolina.<br>
-
-d. Forneça um método obterGasolina(), que retorna o nível atual
-de combustível e forneça um método adicionarGasolina(),
-para abastecer o tanque.
+   d. Forneça um método obterGasolina(), que retorna o nível atual
+   de combustível e forneça um método adicionarGasolina(),
+   para abastecer o tanque.
