@@ -16,7 +16,7 @@ Atividade Prática - Modelagem de objetos em Typescript
    a. Atributos<br>
    i. Cor<br>
    ii. Circunferência<br>
-   iii. Material<br>
+   iii. Material<br><br>
    b. Métodos<br>
    i. Trocar Cor<br>
    ii. Mostrar cor<br>
@@ -27,11 +27,11 @@ Atividade Prática - Modelagem de objetos em Typescript
    deve possuir os seguintes atributos:<br>
    a. Número da conta<br>
    b. Nome do correntista<br>
-   c. Saldo<br>
+   c. Saldo<br><br>
    Os métodos são os seguintes:<br>
    a) Alterar nome<br>
    b) Deposito<br>
-   c) Saque<br>
+   c) Saque<br><br>
    No construtor, o saldo é opcional, com valor padrão zero e os
    demais atributos são obrigatórios. A conta não pode ficar com saldo
    negativo.
